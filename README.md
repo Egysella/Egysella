@@ -20,7 +20,7 @@ Aqui estão algumas ideias para começar:
 
  🌟 **Vivo no Porto - Portugal**  
  👩‍💻 **Sou desenvolvedora em formação**, apaixonada por software de qualidade.  
-  Estou aprendendo **Python**, **C#**, **.NET**, **Angular** e **Programação Orientada a Objetos** no CINEL.  
+  Estou aprendendo **Python**, **C#**, **.NET**, **Angular** e **Programação Orientada a Objetos**.  
   Tenho experiência em pesquisa científica na área da **Geologia**, onde desenvolvi habilidades analíticas e de resolução de problemas.  
 
 <br>
