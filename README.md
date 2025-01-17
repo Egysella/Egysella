@@ -47,3 +47,20 @@ Aqui estão algumas ideias para começar:
 <div style="display: inline_block"><br>
 
 </div>
+
+## 🏆 Projetos e Contribuições
+
+### 🏋️‍♀️ Construindo Um Site de Academia
+Este projeto foi desenvolvido durante o bootcamp de FullStack Java da SoulCode. A proposta foi criar um site responsivo a partir de um Wireframe no Figma, utilizando apenas HTML, CSS e Javascript, sem plugins ou frameworks.
+
+📂 **Repositório no GitHub:** [academia-soulcode](https://github.com/Egysella/projeto-1-soulcode)
+
+**Tecnologias usadas:**
+- HTML5
+- CSS3
+- Javascript
+- PHP (para habilitar o deploy no Heroku)
+
+👥 **Colaboradores:**  
+Alvaro Machado Ferreira, Egysella Firmo, Giovane Avelino Tiburcio, Igor Bacellar, Igor Antônio Almeida Santos, Isis Ferreira dos Santos, Luiz Eduardo Leite, Patrick Cavalcante Gomes
+
