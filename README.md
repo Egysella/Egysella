@@ -50,7 +50,7 @@ Aqui estão algumas ideias para começar:
 
 ## 🏆 Projetos e Contribuições
 
-### 🏋️‍♀️ Construindo Um Site de Academia
+# 🏋️‍♀️ Construindo Um Site de Academia 
 Este projeto foi desenvolvido durante o bootcamp de FullStack Java da SoulCode. A proposta foi criar um site responsivo a partir de um Wireframe no Figma, utilizando apenas HTML, CSS e Javascript, sem plugins ou frameworks.
 
 📂 **Repositório no GitHub:** [academia-soulcode](https://github.com/Egysella/projeto-1-soulcode)
@@ -64,3 +64,29 @@ Este projeto foi desenvolvido durante o bootcamp de FullStack Java da SoulCode. 
 👥 **Colaboradores:**  
 Alvaro Machado Ferreira, Egysella Firmo, Giovane Avelino Tiburcio, Igor Bacellar, Igor Antônio Almeida Santos, Isis Ferreira dos Santos, Luiz Eduardo Leite, Patrick Cavalcante Gomes
 
+<br><br><br>
+# 🎮 Projeto Pokémon Battle
+
+Este é um projeto desenvolvido em **Angular** que utiliza a [PokeAPI](https://pokeapi.co/) para criar uma aplicação interativa. A aplicação permite listar todos os Pokémon, escolher Pokémon aleatórios e realizar duelos de poder entre eles.
+
+---
+
+## 🚀 Funcionalidades
+
+ 🔍 **Listagem de Pokémon**: Veja todos os Pokémon disponíveis na [PokeAPI](https://pokeapi.co/) com informações básicas como nome, imagem e tipos.  
+ 🎲 **Escolha aleatória de Pokémon**: Selecione Pokémon de forma randômica para duelos.  
+ ⚔️ **Sistema de Duelos**: Compare os poderes dos Pokémon e declare o vencedor com base em suas estatísticas (por exemplo: ataque, defesa ou velocidade).  
+ 💻 **Interface Responsiva**: Funciona em dispositivos desktop e móveis.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+ **Angular**: Framework principal usado no projeto.  
+ **TypeScript**: Linguagem utilizada para lógica e funcionalidades.  
+ **HTML5** e **CSS3**: Para criação da interface do usuário.  
+ **Bootstrap**: Biblioteca CSS para estilos e responsividade.  
+ **PokeAPI**: API REST usada para obter os dados dos Pokémon.  
+
+---
+📂 **Repositório no GitHub:** [Projeto Pokémon Battle](https://github.com/Egysella/projeto-1-soulcode)
